@@ -1,0 +1,14 @@
+E:\Documents\Csharp\00_Projetos\EditorDeTexto\obj\Debug\net8.0\EditorDeTexto.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\Csharp\00_Projetos\EditorDeTexto\obj\Debug\net8.0\EditorDeTexto.AssemblyInfoInputs.cache
+E:\Documents\Csharp\00_Projetos\EditorDeTexto\obj\Debug\net8.0\EditorDeTexto.AssemblyInfo.cs
+E:\Documents\Csharp\00_Projetos\EditorDeTexto\obj\Debug\net8.0\EditorDeTexto.csproj.CoreCompileInputs.cache
+E:\Documents\Csharp\00_Projetos\EditorDeTexto\bin\Debug\net8.0\EditorDeTexto.exe
+E:\Documents\Csharp\00_Projetos\EditorDeTexto\bin\Debug\net8.0\EditorDeTexto.deps.json
+E:\Documents\Csharp\00_Projetos\EditorDeTexto\bin\Debug\net8.0\EditorDeTexto.runtimeconfig.json
+E:\Documents\Csharp\00_Projetos\EditorDeTexto\bin\Debug\net8.0\EditorDeTexto.dll
+E:\Documents\Csharp\00_Projetos\EditorDeTexto\bin\Debug\net8.0\EditorDeTexto.pdb
+E:\Documents\Csharp\00_Projetos\EditorDeTexto\obj\Debug\net8.0\EditorDeTexto.dll
+E:\Documents\Csharp\00_Projetos\EditorDeTexto\obj\Debug\net8.0\refint\EditorDeTexto.dll
+E:\Documents\Csharp\00_Projetos\EditorDeTexto\obj\Debug\net8.0\EditorDeTexto.pdb
+E:\Documents\Csharp\00_Projetos\EditorDeTexto\obj\Debug\net8.0\EditorDeTexto.genruntimeconfig.cache
+E:\Documents\Csharp\00_Projetos\EditorDeTexto\obj\Debug\net8.0\ref\EditorDeTexto.dll
